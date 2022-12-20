@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-As a highly passionate and experienced software engineer, I have spent over a decade honing my skills in the programming world. My journey began with PHP and has evolved to focus on **Python and Go**. In my current role as a **DevOps Engineer**, I utilize cutting-edge tools such as **Docker, ansible, and Terraform** to manage infrastructure, and have a strong understanding of platforms like **AWS** and GCP.
+As a highly passionate and experienced software engineer, I have spent over a decade honing my skills in the programming world. My journey began with PHP and has evolved to focus on **Python and Go**. In my current role as a **DevOps Engineer**, I utilize cutting-edge tools such as **Docker, Ansible, and Terraform** to manage infrastructure, and have a strong understanding of platforms like **AWS** and GCP.
 
 In addition to my technical expertise, I have a background in marketing and eCommerce, allowing me to integrate technologies such as the **Facebook Conversion API** and create chatbots with ManyChats to drive sales and improve ROI. I am also skilled in creating email and landing page funnels to increase visitor engagement and conversions.
 
