@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-**DevOps Engineer** with extensive experience designing, implementing and maintaining highly scalable and available hosting infrastructures. 
+**DevOps Engineer** with extensive experience designing, implementing and maintaining highly scalable and available cloud infrastructures. 
 
 Proficient in leading technologies such as Docker, Kubernetes, Ansible, Terraform and cloud services like **AWS**. 
 
 Skilled in programming languages like **PHP, Golang, Python and Bash scripts**, using them to automate processes, create backend applications, expose services through **REST/GraphQL/gRPC APIs** and improve server management efficiency. Experience in implementing integration and continuous delivery pipelines with **Jenkins and Github Actions**. **Proven knowledge in 🐧 Linux based Operating System Administration**.
 
-Excellent interpersonal skills, team player, continuous learning mindset and problem-solving abilities. Passionate about challenges and constantly learning in the field of technology and hosting.
+Excellent interpersonal skills, team player, continuous learning mindset and problem-solving abilities. Passionate about challenges and constantly learning in the field of technology and cloud.
 
 Outside of work, I enjoy spending time with my family and participating in activities such as **padel, karting, and paintball**.
 
