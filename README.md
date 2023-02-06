@@ -2,11 +2,13 @@
 
 ## 🚀 About Me
 
-As a highly passionate and experienced software engineer, I have spent over a decade honing my skills in the programming world. My journey began with PHP and has evolved to focus on **Python and Go**. In my current role as a **DevOps Engineer**, I utilize cutting-edge tools such as **Docker, Ansible, and Terraform** to manage infrastructure, and have a strong understanding of platforms like **AWS** and GCP.
+**DevOps Engineer** with extensive experience designing, implementing and maintaining highly scalable and available hosting infrastructures. 
 
-In addition to my technical expertise, I have a background in marketing and eCommerce, allowing me to integrate technologies such as the **Facebook Conversion API** and create chatbots with ManyChats to drive sales and improve ROI. I am also skilled in creating email and landing page funnels to increase visitor engagement and conversions.
+Proficient in leading technologies such as Docker, Kubernetes, Ansible, Terraform and cloud services like **AWS**. 
 
-I thrive in team environments and have **excellent interpersonal skills**, making it easy for me to adapt to new teams and projects. With a true love for technology and a hunger for continuous learning, I am excited to tackle any challenge that comes my way as a software engineer.
+Skilled in programming languages like **PHP, Golang, Python and Bash scripts**, using them to automate processes, create backend applications, expose services through **REST/GraphQL/gRPC APIs** and improve server management efficiency. Experience in implementing integration and continuous delivery pipelines with **Jenkins and Github Actions**. **Proven knowledge in 🐧 Linux based Operating System Administration**.
+
+Excellent interpersonal skills, team player, continuous learning mindset and problem-solving abilities. Passionate about challenges and constantly learning in the field of technology and hosting.
 
 Outside of work, I enjoy spending time with my family and participating in activities such as **padel, karting, and paintball**.
 
