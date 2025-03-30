@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-**DevOps Engineer** with extensive experience designing, implementing and maintaining highly scalable and available cloud infrastructures. 
+**Lead DevOps Engineer** with extensive experience designing, implementing and maintaining highly scalable and available cloud infrastructures. 
 
 Proficient in leading technologies such as Docker, Kubernetes, Ansible, Terraform and cloud services like **AWS**. 
 
